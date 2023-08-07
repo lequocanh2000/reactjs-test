@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy A14",
+        "prod": "2022",
+        "price": 4490000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-samsung-galaxy-a14-4g-a145f-4128g-den-midnight_8b209140.webp",
+        "description": "Nổi bật với diện mạo đầy trẻ trung."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy A04",
+        "prod": "2022",
+        "price": 2990000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-samsung-galaxy-a04-3g32g-sm-a045f-den_85bfb49e.webp",
+        "description": "Thiết kế tối giản nhưng không kém phần hút mắt."
+    },
+    {
+        "id": 3,
+        "name": "Apple iphone 11 128G",
+        "prod": "2021",
+        "price": 14990000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/-kx3E3U.webp",
+        "description": "LCD cỡ 6,1 inch, tốc độ làm mới 60Hz"
+    },
+    {
+        "id": 4,
+        "name": "Samsung Galaxy A04s",
+        "prod": "2021",
+        "price": 3990000 ,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-samsung-galaxy-a04s-4g64g-a047f-den_fc8d700f.webp",
+        "description": "Trải nghiệm ngày dài, không lo về pin"
+    },
+    {
+        "id": 5,
+        "name": "Iphone 11 64G Black",
+        "prod": "2021",
+        "price": 13490000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/-71QcvY.webp",
+        "description": "Apple A13 Bionic 6 lõi, tốc độ 2,66 Ghz"
+    },
+    {
+        "id": 6,
+        "name": "Iphone 14 Pro Max",
+        "prod": "2023",
+        "price": 34990000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/apple-iphone-14-pro-max-128gb-deep-purple_3419f3d8.webp",
+        "description": "Vi xử lý Apple A16 Bionic 4nm với Apple GPU (5-core graphics)"
+    },
+    {
+        "id": 7,
+        "name": "Iphone 13 128G Pink",
+        "prod": "2022",
+        "price": 16990000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/apple-iphone-13-128g-pink-Dc4VHr.webp",
+        "description": "Công nghệ màn hình OLED Super Retina"
+    },
+    {
+        "id": 8,
+        "name": "Vivo V2204 - Y16",
+        "prod": "2021",
+        "price": 4490000 ,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-vivo-v2204---y16-4128gb-vang_b035cae7.webp",
+        "description": "Thiết kế khung viền phẳng sang trọng, màu sắc họa tiết ánh sao"
+    }, {
+        "id": 9,
+        "name": "OPPO CPH2471 - A17k",
+        "prod": "2021",
+        "price": 3490000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-oppo-cph2471---a17k-vang_889294c0.webp",
+        "description": "Bắt trọn khoảnh khắc đẹp với độ chi tiết cao"
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy A23",
+        "prod": "2020",
+        "price": 5690000 ,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-samsung-galaxy-a23-4g128g-a235f-xanh_2eb86b98.webp",
+        "description": "Thiết kế đặc trưng Galaxy A"
+    }, {
+        "id": 11,
+        "name": "Samsung Galaxy A23 A235F",
+        "prod": "2021",
+        "price": 5690000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-samsung-galaxy-a23-a235f-blue-dm_5a02c92b.webp",
+        "description": "Đáp ứng nhu cầu sử dụng cả ngày"
+    },
+    {
+        "id": 12,
+        "name": "Iphone 14 Pro Max",
+        "prod": "2023",
+        "price": 34990000,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/apple-iphone-14-pro-max-128gb-gold_63cd8756.webp",
+        "description": "Công nghệ màn hình LTPO Super Retina XDR OLED"
+    }, 
+    {
+        "id": 13,
+        "name": "Xiaomi Redmi 10A ",
+        "prod": "2021",
+        "price": 3290000 ,
+        "image": "https://cdn.mediamart.vn/thumb/images/product/din-thoi-xiaomi-redmi-10a-232-xanh_cb329fdf.webp",
+        "description": "Thiết kế hiện đại, thời thượng"
+    }
+]
